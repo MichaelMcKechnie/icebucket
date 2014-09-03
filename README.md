@@ -1,4 +1,4 @@
 icebucket
 =========
 
-Script for automated tests of JustGiving donatoins and TheHub nominations
+Script for automated tests of JustGiving donations and TheHub nominations
