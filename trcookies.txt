@@ -1,0 +1,17 @@
+# Cookies for domains related to thomsonreuters.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt https://thehub.thomsonreuters.com/groups/fr-unified-platform-group/blog/2014/08/18/welcome-to-the-upg-ice-bucket-challenge?utm_medium=search&utm_source=full
+#
+eegitemea.int.thomsonreuters.com	FALSE	/	FALSE	1410348039.268979	remember_user_token	BAhbB1sGaQLTAkkiIiQyYSQxMCRTRHFUamRQR0wxVnNIM0J1Z1h4SlZ1BjoGRVQ%3D--dcda2be27e29eedb587deaeb0f85620bea0b89fa
+thehub.thomsonreuters.com	FALSE	/	TRUE	1409596732	totango.attributes_sent	true
+webmail.thomsonreuters.com	FALSE	/	FALSE	1410781866	logondata	acc=0&lgn=ten\michael.mckechnie
+thehub.thomsonreuters.com	FALSE	/	FALSE	0	jive.login.ts	1409580293587
+thehub.thomsonreuters.com	FALSE	/	FALSE	0	BIGipServerpool_thehub.thomsonreuters.com	1912709642.20480.0000
+thehub.thomsonreuters.com	FALSE	/	TRUE	0	JSESSIONID	1FE5402608021332CB6DC2DF3EB2D223
+thehub.thomsonreuters.com	FALSE	/	FALSE	0	jive.user.loggedIn	true
+thehub.thomsonreuters.com	FALSE	/	FALSE	0	jive.server.info	"serverName=thehub.thomsonreuters.com:serverPort=443:contextPath=:localName=localhost:localPort=9200:localAddr=127.0.0.1"
+thehub.thomsonreuters.com	FALSE	/	FALSE	1412172284.342552	jiveSSOLoginUserCookie	true
+thehub.thomsonreuters.com	FALSE	/	FALSE	1441122000	anonymous	false
+thehub.thomsonreuters.com	FALSE	/	FALSE	1409587201	NITRO_SESSION_79195296e5d4406ea1cff0039a9c3be2_25093	NXwxNjI1ODJ8MTMxODc4NDQyNDZ8MTQwOTc1ODgxNXw3MmRkYjFmMjA2ZTZkNzM5ZDQxYmZkMDVmY2IyODRlMzcyOWNiN2ZhY2RiMDY0NGYyNTAyNzYyZDc4NjA1MDdmfDA=
+thehub.thomsonreuters.com	FALSE	/	FALSE	0	X-JCAPI-Token	2vHh4826
+thehub.thomsonreuters.com	FALSE	/	FALSE	0	jive.security.context	"WRCR0XDzg6PDI7DUTNgrDwAAAAAAtopgz4d7TC6B1AQ8yIVB0C9K49GHJoCzjAxFfW8szg=="
